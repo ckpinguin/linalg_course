@@ -1,0 +1,11 @@
+[project]
+name = "linalg-course"
+version = "0.1.0"
+description = "Python lab for a linear algebra → tensors tutoring course"
+requires-python = ">=3.14"
+dependencies = [
+    "ipywidgets>=8.1.9",
+    "jupyterlab>=4.6.4",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.3",
+]
