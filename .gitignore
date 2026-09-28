@@ -1,5 +1,4 @@
 /.venv
 .claude
-*.lock
 work/
 .DS_Store
